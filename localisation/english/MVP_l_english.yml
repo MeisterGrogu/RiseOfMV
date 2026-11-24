@@ -1,0 +1,38 @@
+﻿l_english:
+ # Country Names
+ MVP: "Mecklenburg-Vorpommern"
+ MVP_DEF: "Mecklenburg-Vorpommern"
+ MVP_ADJ: "Mecklenburg-Pomeranian"
+ MVP_neutrality: "Mecklenburg-Vorpommern"
+ MVP_neutrality_DEF: "Mecklenburg-Vorpommern"
+ MVP_democratic: "Free State of Mecklenburg-Vorpommern"
+ MVP_democratic_DEF: "the Free State of Mecklenburg-Vorpommern"
+ MVP_fascism: "Grand Duchy of Mecklenburg-Vorpommern"
+ MVP_fascism_DEF: "the Grand Duchy of Mecklenburg-Vorpommern"
+ MVP_communism: "Socialist Republic of Mecklenburg-Vorpommern"
+ MVP_communism_DEF: "the Socialist Republic of Mecklenburg-Vorpommern"
+
+ # Characters
+ MVP_heinrich_von_schwerin: "Heinrich von Schwerin"
+
+ # Ideas
+ MVP_baltic_maritime_heritage: "Baltic Maritime Heritage"
+ MVP_baltic_maritime_heritage_desc: "Centuries of Hanseatic trade and shipbuilding along the Baltic coast strengthen our administration and shipyards."
+
+ # Events
+ mvp_event.1.t: "A New Dawn on the Baltic"
+ mvp_event.1.d: "Mecklenburg-Vorpommern stands united and independent along the southern Baltic coast. How shall we chart our course?"
+ mvp_event.1.a: "Long live Mecklenburg-Vorpommern!"
+
+ # Decisions
+ MVP_state_decisions: "Mecklenburg-Vorpommern Affairs"
+ MVP_develop_baltic_ports: "Expand the Port of Rostock"
+ MVP_develop_baltic_ports_desc: "Invest state funds into expanding our shipbuilding facilities along the Warnow."
+
+ # Focuses
+ MVP_establish_sovereignty: "Establish State Sovereignty"
+ MVP_establish_sovereignty_desc: "Consolidate our administration in Schwerin and secure our borders."
+ MVP_baltic_trade_focus: "Revive the Hanseatic Shipyards"
+ MVP_baltic_trade_focus_desc: "Focus our economy on naval construction and Baltic maritime commerce."
+ MVP_agricultural_reform: "Modernize the Estates"
+ MVP_agricultural_reform_desc: "Develop civilian industry across Mecklenburg and Vorpommern."

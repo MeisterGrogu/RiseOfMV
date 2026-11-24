@@ -1,0 +1,12 @@
+MVP = {
+	male = {
+		names = { Friedrich Heinrich Karl Wilhelm Johann Ernst Ludwig Paul Hans Otto }
+	}
+	female = {
+		names = { Luise Anna Margarete Elisabeth Marie Sophie Hedwig Clara }
+	}
+	surnames = {
+		"von Schwerin" "von Bülow" "von Maltzahn" Voss Schröder Krüger Schultz Meyer Müller Neumann
+	}
+	callsigns = { "Greif" "Ostsee" "Strelitz" "Rügen" "Warnow" }
+}

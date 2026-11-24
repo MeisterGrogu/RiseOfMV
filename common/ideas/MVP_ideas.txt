@@ -1,0 +1,11 @@
+ideas = {
+	country = {
+		MVP_baltic_maritime_heritage = {
+			picture = generic_pp_unity_bonus
+			modifier = {
+				political_power_gain = 0.15
+				industrial_capacity_dockyard = 0.10
+			}
+		}
+	}
+}

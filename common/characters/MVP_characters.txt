@@ -1,0 +1,15 @@
+characters = {
+	MVP_heinrich_von_schwerin = {
+		name = MVP_heinrich_von_schwerin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_MVP_heinrich_von_schwerin
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}
