@@ -1,6 +1,6 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_MVP_heinrich_von_schwerin"
-		texturefile = "gfx/leaders/GER/Portrait_Germany_Generic_land_1.dds" # "gfx/leaders/MVP/portrait_mvp_leader.dds"
+		texturefile = "gfx/leaders/MVP/portrait_heinrich_von_schwerin.dds"
 	}
 }
